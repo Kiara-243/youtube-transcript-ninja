@@ -1,0 +1,8 @@
+{
+  "defaultLanguage": "en",
+  "includeTimestamps": true,
+  "maxConcurrentRequests": 3,
+  "requestTimeoutMs": 15000,
+  "userAgent": "YouTube-Transcript-Ninja/1.0 (+https://bitbash.dev)",
+  "notes": "This is an example configuration file. The application uses built-in defaults and does not require this file at runtime. Copy to settings.json and adjust as needed."
+}
